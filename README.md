@@ -3,4 +3,6 @@ DiscreteMath
 
 USAFA Discrete Math
 
-All of my class work.
+Summary: Analysis of algoriths
+
+CS340_Sorts: An analysis of many different types of sorts.
